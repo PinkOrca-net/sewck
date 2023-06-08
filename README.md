@@ -7,7 +7,7 @@ SEWCK is a PHP script that uses symmetric encryption with a custom key to encryp
 1. Clone or download the repository to your local machine.
 2. Ensure that you have PHP installed on your machine. You can check if PHP is installed by running the command `php -v` in your terminal or command prompt.
 3. Open a terminal or command prompt and navigate to the directory where you cloned or downloaded the repository.
-4. Run the script using the command `php symmetric-encryption.php`.
+4. Run the script using the command `php script.php`.
 
 ## Usage
 
